@@ -1,9 +1,144 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.7">
   <diagram name="Pagina-1" id="0BlaeF4Wuc480mNTyorj">
-    <mxGraphModel>
+    <mxGraphModel dx="1043" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mi39j66zBvmvn_8gFiLY-44" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="455" y="870" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-1" value="NSB Service1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-3" value="NSB Service2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-4" value="NSB Service3" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-5" value="NSB Service4" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-7" value="Persistence" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-8" value="CustomDb1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="295" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-9" value="CustomDb2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="395" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.8;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.443;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mi39j66zBvmvn_8gFiLY-6" target="mi39j66zBvmvn_8gFiLY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="350" as="sourcePoint" />
+            <mxPoint x="310" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="mi39j66zBvmvn_8gFiLY-6" target="mi39j66zBvmvn_8gFiLY-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="350" as="sourcePoint" />
+            <mxPoint x="310" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.903;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mi39j66zBvmvn_8gFiLY-6" target="mi39j66zBvmvn_8gFiLY-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="350" as="sourcePoint" />
+            <mxPoint x="310" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.637;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mi39j66zBvmvn_8gFiLY-6" target="mi39j66zBvmvn_8gFiLY-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="240" as="sourcePoint" />
+            <mxPoint x="310" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-17" value="Unique DNS Name for Persistence DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-31" value="NSB Service1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-32" value="NSB Service2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-33" value="NSB Service3" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-34" value="NSB Service4" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-35" value="SQL SERVER 2012R2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="870" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-36" value="Persistence" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="570" y="880" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-38" value="CustomDb2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1015" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-39" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.8;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mi39j66zBvmvn_8gFiLY-44" target="mi39j66zBvmvn_8gFiLY-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="970" as="sourcePoint" />
+            <mxPoint x="330" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.351;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mi39j66zBvmvn_8gFiLY-44" target="mi39j66zBvmvn_8gFiLY-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="970" as="sourcePoint" />
+            <mxPoint x="330" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="mi39j66zBvmvn_8gFiLY-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="860" as="sourcePoint" />
+            <mxPoint x="330" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.414;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mi39j66zBvmvn_8gFiLY-44" target="mi39j66zBvmvn_8gFiLY-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="860" as="sourcePoint" />
+            <mxPoint x="330" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-43" value="&lt;font color=&quot;#ff9999&quot;&gt;NEW &lt;/font&gt;Unique DNS Name for Persistence DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="790" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-45" value="CustomDb1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="374" y="895" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-46" value="&#xa;SQL SERVER 2012R2&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="510" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-48" value="&#xa;SQL SERVER 2012R2&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1090" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-49" value="&lt;h2 class=&quot;&quot;&gt;SQL Server 2022&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1080" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-50" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="910" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1019" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-54" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="384" y="699" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-55" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="524" y="699" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-56" value="&amp;nbsp;&amp;nbsp; is onberekbaar voor service " style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="716" y="578" width="31" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-57" value="&lt;h1&gt;Current situation &lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="10" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mi39j66zBvmvn_8gFiLY-58" value="&lt;h1&gt;New situation &lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="610" width="260" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
