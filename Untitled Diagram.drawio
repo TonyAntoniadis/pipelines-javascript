@@ -1,17 +1,47 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
   <diagram name="TabacNASI Finance Integration" id="VulDLNcueWlcYSBfgigG">
-    <mxGraphModel dx="1146" dy="1091" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2625" dy="1610" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-1" target="F7kPG2DrNRmCEhY8G2Sz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-1" target="F7kPG2DrNRmCEhY8G2Sz-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-1" target="F7kPG2DrNRmCEhY8G2Sz-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-1" target="F7kPG2DrNRmCEhY8G2Sz-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-1" target="F7kPG2DrNRmCEhY8G2Sz-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-1" value="Service TRIS" style="shape=rectangle;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="50" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="-266" y="8" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-2" target="F7kPG2DrNRmCEhY8G2Sz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-2" target="F7kPG2DrNRmCEhY8G2Sz-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-2" target="F7kPG2DrNRmCEhY8G2Sz-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-2" target="F7kPG2DrNRmCEhY8G2Sz-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-46" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-2" target="F7kPG2DrNRmCEhY8G2Sz-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-2" value="Service IXO" style="shape=rectangle;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="50" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-263" y="556" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-3" value="Shared Folder (XML Export)&#xa;&#xa;\\tab.dom\tbn-dfs\BusinessCentral\Finance\Live\Receive\Tris\Poll" style="shape=folder;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="250" y="160" width="160" height="80" as="geometry" />
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-3" value="Shared Folder (XML Export)&#xa;&#xa;{destinationFolder}\CLIENT" style="shape=folder;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="207" y="-150" width="487" height="134" as="geometry" />
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-4" style="endArrow=block;endFill=1;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-1" target="F7kPG2DrNRmCEhY8G2Sz-3">
           <mxGeometry relative="1" as="geometry" />
@@ -20,59 +50,95 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-6" value="Tabaknatie Finance Integration Service&#xa;(XML → API)" style="shape=process;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="200" height="80" as="geometry" />
+          <mxGeometry x="1141" y="214" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-7" style="endArrow=block;endFill=1;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-3" target="F7kPG2DrNRmCEhY8G2Sz-6">
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-7" style="endArrow=block;endFill=1;exitX=0;exitY=0;exitDx=487;exitDy=77;exitPerimeter=0;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-3" target="F7kPG2DrNRmCEhY8G2Sz-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-8" value="Business Central (Web API) CLIENT" style="shape=cloud;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="642" y="-46" width="160" height="80" as="geometry" />
+          <mxGeometry x="1461" y="-83" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-9" style="endArrow=block;endFill=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-6" target="F7kPG2DrNRmCEhY8G2Sz-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-10" value="Business Central (Web API) SALEINV&#xa;in Base64" style="shape=cloud;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="937" y="30" width="160" height="80" as="geometry" />
+          <mxGeometry x="1461" y="84" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-11" style="endArrow=block;endFill=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="F7kPG2DrNRmCEhY8G2Sz-10" source="F7kPG2DrNRmCEhY8G2Sz-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="811" y="341" as="sourcePoint" />
+            <mxPoint x="1335" y="395" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-12" value="Business Central (Web API) SUPPLIER" style="shape=cloud;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="802" y="185" width="160" height="80" as="geometry" />
+          <mxGeometry x="1461" y="238" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-13" style="endArrow=block;endFill=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" target="F7kPG2DrNRmCEhY8G2Sz-12" source="F7kPG2DrNRmCEhY8G2Sz-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="643" y="398" as="sourcePoint" />
+            <mxPoint x="1167" y="452" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-16" value="Business Central (Web API) ADDRESS" style="shape=cloud;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="672" y="409" width="160" height="80" as="geometry" />
+          <mxGeometry x="1461" y="496" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-17" style="endArrow=block;endFill=1;exitX=0.668;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="F7kPG2DrNRmCEhY8G2Sz-16" source="F7kPG2DrNRmCEhY8G2Sz-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="944" y="359" as="sourcePoint" />
+            <mxPoint x="1468" y="413" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-18" value="Business Central (Web API) DIV" style="shape=cloud;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="473" y="335" width="160" height="80" as="geometry" />
+          <mxGeometry x="1461" y="624" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-19" style="endArrow=block;endFill=1;" edge="1" parent="1" target="F7kPG2DrNRmCEhY8G2Sz-18" source="F7kPG2DrNRmCEhY8G2Sz-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1089" y="304" as="sourcePoint" />
+            <mxPoint x="1613" y="358" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-20" value="Business Central (Web API) PURCHINV" style="shape=cloud;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="766" y="303" width="160" height="80" as="geometry" />
+          <mxGeometry x="1461" y="372" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-21" style="endArrow=block;endFill=1;exitX=0.828;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="F7kPG2DrNRmCEhY8G2Sz-20" source="F7kPG2DrNRmCEhY8G2Sz-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1113" y="304" as="sourcePoint" />
+            <mxPoint x="1637" y="358" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F7kPG2DrNRmCEhY8G2Sz-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-16" target="F7kPG2DrNRmCEhY8G2Sz-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-26" target="F7kPG2DrNRmCEhY8G2Sz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-26" value="Shared Folder (XML Export)&#xa;{destinationFolder}\SALESINV" style="shape=folder;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="207" y="8" width="487" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-27" value="Shared Folder (XML Export)&#xa;{destinationFolder}\SUPPLIER" style="shape=folder;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="207" y="166" width="487" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-28" target="F7kPG2DrNRmCEhY8G2Sz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-28" value="Shared Folder (XML Export)&#xa;{destinationFolder}\PURCHINV" style="shape=folder;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="207" y="324" width="487" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-29" target="F7kPG2DrNRmCEhY8G2Sz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-29" target="F7kPG2DrNRmCEhY8G2Sz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-29" value="Shared Folder (XML Export)&#xa;{destinationFolder}\ADDRESS" style="shape=folder;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="207" y="482" width="487" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-30" value="Shared Folder (XML Export)&#xa;{destinationFolder}\DIV" style="shape=folder;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="207" y="640" width="487" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-27" target="F7kPG2DrNRmCEhY8G2Sz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.409;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="F7kPG2DrNRmCEhY8G2Sz-30" target="F7kPG2DrNRmCEhY8G2Sz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7kPG2DrNRmCEhY8G2Sz-47" value="DestinationFolder =&amp;nbsp;&lt;br&gt;&lt;br&gt;\\tab.dom\tbn-dfs\BusinessCentral\Finance\Live\Receive\Tris\Poll\" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-46" y="-277" width="928" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
